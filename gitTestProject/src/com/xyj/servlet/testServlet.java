@@ -5,6 +5,10 @@ public class testServlet {
 		System.out.println("hello git!");
 		//您好，许有加
 		
+<<<<<<< HEAD
 		//qqqqqcacacasdasdfsdf
+=======
+		//qqqqqasdafsf
+>>>>>>> branch 'master' of https://github.com/xuyoujia/gitTestProject.git
 	}
 }
